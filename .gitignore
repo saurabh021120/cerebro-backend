@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.env
+
+# Python headers
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+.vscode/
+.idea/
+*.log
