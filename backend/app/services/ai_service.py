@@ -141,7 +141,7 @@ Goal: {goal}
 Duration: {duration_weeks} weeks
 Additional Info: {additional_info or 'None'}
 
-Generate a course with modules, each with lessons and a quiz with 2 questions.
+Generate a course with modules, each with lessons and a quiz with questions.
 Include practical resources and detailed lesson content."""
 
     # Run the synchronous API call in a thread pool
